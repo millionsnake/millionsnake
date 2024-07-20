@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Profile README.md in the works
+
 <!--
 **millionsnake/millionsnake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
