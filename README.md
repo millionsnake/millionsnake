@@ -1,13 +1,61 @@
-## Welcome to my profile!
+Currently on a journey to learn to a competent enough level a multitude of technologies related to programming. 
+I will be focusing on one "stack" at a time, so that I can progress more efficiently without needing to multitask.
 
-I'm Alessandro, a Software Engineering undergraduate student born and raised in Brazil. Although my current major is more focused on the Software Development side of things, I also have a passion for understand how computers actually work from the ground up, which at one point even made me switch majors to Computer Engineering for a while. Both majors have contributed to my way of viewing things, and I will very likely keep seeking to understand both points of view through self-studying.
+### MAIN (on hold)
 
-Currently, I'm mostly working on whatever my university tells me to do, however I do have a few side projects (mostly private as of yet) here and there. So far, I am relatively comfortable working with C/C++, Arduino, Java and HTML/CSS. Other technologies such as JavaScript, Python, and Rust are still new to me, but I expect to grow more familiar with them as I develop my future projects, either personal or for university, using these tools.
+Currently trying to catch up to my C/C++ and Java knowledge so that I can effectively use Rust instead for most matters.
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-Another one of my passions is language learning, so I might even dabble in translation work in the future. Currently, I can speak Portugese, English, Spanish, and Japanese to varying degrees, and I plan on learning even more languages soon, such as French and Mandarin. With this knowledge, I hope to one day be able to live in and travel to different places all around the world. This way, I can meet with online friends and perhaps even make new ones throughout the journey.
+### WEB (learning...)
 
-Lastly, I also have a massive interest on anything to do with airplanes, helicopters, rockets, and even military equipment in general. So embedded computing, IoT, and getting to see the software I helped develop interfacing with things out there in the physical world (drones, self-driving vehicles, augmented reality...) could be a source of great satisfaction for me one day.
+Common language of most frameworks and technologies on the web, using JS makes everything more consistent.
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-Feel free to reach out to me if anything has piqued your interest, as I feel this document is becoming far too verbose already.
+Server-side JS and route configuration.
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-I will update it with better visuals and info whenever I get the time.
+Dynamic frontend for applications with React, and eye-catching components using Chakra.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+
+NoSQL database good enough for most small to medium-sized projects
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+DevOps/Cloud
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### OTHERS (on hold)
+
+Wireframes and diagrams
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+Image manipulation tool for use in frontend
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+
+Video Editing tool
+![DaVinci Resolve](https://img.shields.io/static/v1?style=for-the-badge&message=DaVinci+Resolve&color=233A51&logo=DaVinci+Resolve&logoColor=FFFFFF&label=)
+
+Social Media Content
+![Canva](https://img.shields.io/static/v1?style=for-the-badge&message=Canva&color=222222&logo=Canva&logoColor=00C4CC&label=)
+
+Data visualization
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+Database for bigger, complex projects
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+Operating System (CLI)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+Versioning and Collaboration
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+Discord App development using JavaScript
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
