@@ -19,12 +19,12 @@ Server-side JS and route configuration.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-Dynamic frontend for applications with React, and eye-catching components using Chakra.
+Dynamic frontend for applications with React, and components using Mantine.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![Mantine](https://img.shields.io/static/v1?style=for-the-badge&message=Mantine&color=339AF0&logo=Mantine&logoColor=FFFFFF&label=)
 
 NoSQL database good enough for most small to medium-sized projects
 
