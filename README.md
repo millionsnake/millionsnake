@@ -46,7 +46,7 @@ I am a 23-year-old Brazilian programmer driven by a desire to understand computi
 
 ## 🏗️ Current Projects
 
-I am currently developing two private projects to expand my technical capabilities and practical experience:
+I am currently developing three private projects to expand my technical capabilities and practical experience:
 
 ### Business Management Application
 A comprehensive full-stack web application designed for a small business, using TypeScript, Node.js, Express, MongoDB, and React. This project serves as a strategic opportunity to:
