@@ -21,7 +21,8 @@ I am a 23-year-old Brazilian programmer driven by a desire to understand computi
 
 ### Embedded and Hardware
 
-- **Microcontroller Development/Prototyping:** Arduino
+- **Microcontroller Development/Prototyping:** Arduino, ESP32
+- **Internet of Things:** MQTT
 
 ![Rust](https://img.shields.io/static/v1?style=for-the-badge&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF&label=)
 ![Tauri](https://img.shields.io/static/v1?style=for-the-badge&message=Tauri&color=222222&logo=Tauri&logoColor=24C8D8&label=)
@@ -41,6 +42,7 @@ I am a 23-year-old Brazilian programmer driven by a desire to understand computi
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![Amazon Web Services](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Web+Services&color=232F3E&logo=Amazon+Web+Services&logoColor=FFFFFF&label=)
 ![Arduino](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00878F&logo=Arduino&logoColor=FFFFFF&label=)
+![MQTT](https://img.shields.io/static/v1?style=for-the-badge&message=MQTT&color=660066&logo=MQTT&logoColor=FFFFFF&label=)
 
 ## 🏗️ Current Projects
 
