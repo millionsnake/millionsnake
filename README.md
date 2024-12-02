@@ -56,7 +56,7 @@ Beyond computer languages and the pursuits mentioned above, I am also passionate
 - Currently learning French
 - Plan to learn Mandarin
 
-## ℹ️ Contact Info
+## 📞 Contact Info
 <a href="https://discord.com/users/222899628725633024">![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)</a>
+<a href="https://x.com/million_snake">![X](https://img.shields.io/static/v1?style=for-the-badge&message=X&color=000000&logo=X&logoColor=FFFFFF&label=)</a>
 <a href="mailto:millionsnake@protonmail.com">![Proton Mail](https://img.shields.io/static/v1?style=for-the-badge&message=Proton+Mail&color=6D4AFF&logo=Proton+Mail&logoColor=FFFFFF&label=)</a>
-<a href="">![X](https://img.shields.io/static/v1?style=for-the-badge&message=X&color=000000&logo=X&logoColor=FFFFFF&label=)</a>
