@@ -1,4 +1,7 @@
-![banner](https://i.pinimg.com/736x/23/a3/cf/23a3cf0c5dab4e8440b42f72ec3e80f1.jpg)
+<div text-align=center>
+    <img src="https://i.pinimg.com/736x/23/a3/cf/23a3cf0c5dab4e8440b42f72ec3e80f1.jpg" alt="banner">
+</div>
+
 
 ## About Me
 
