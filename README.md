@@ -56,13 +56,13 @@ A comprehensive full-stack web application designed for a small business, using 
 - Gain hands-on experience in creating scalable, responsive business management tools
 
 ### Discord Bot Development
-A TypeScript-based Discord bot initially conceived for a private server, with potential for future public release. This project aims to:
+A TypeScript-based Discord bot initially conceived for a private server, with potential for future public release. Through this project, I aim to:
 - Develop practical experience with third-party API integration
 - Explore advanced bot functionality and user interaction design
 - Build a tool that can potentially serve a broader user base
 
 ### Home Automation System (IoT)
-An Internet of Things (IoT) home automation project utilizing ESP32 microcontrollers, the MQTT protocol, and C++ programming. The system is designed to:
+An Internet of Things (IoT) home automation project utilizing ESP32 microcontrollers, the MQTT protocol, and C++ programming. Through this project, I aim to:
 - Develop expertise in embedded systems and IoT technology
 - Gain practical experience with low-level programming and hardware interaction
 - Create an automation framework that can be incrementally expanded and customized, so as to enable other future projects with larger scopes
