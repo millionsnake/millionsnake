@@ -1,7 +1,6 @@
-<div text-align=center>
-    <img src="https://i.pinimg.com/736x/23/a3/cf/23a3cf0c5dab4e8440b42f72ec3e80f1.jpg" alt="banner">
-</div>
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/3c/31/c8/3c31c8503d9e31400e96d4b90b93c141.gif">
+</p>
 
 ## About Me
 
