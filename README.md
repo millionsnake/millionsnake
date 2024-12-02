@@ -1,3 +1,5 @@
+![banner](https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif)
+
 ## About Me
 
 I am a 23-year-old Brazilian programmer driven by a desire to understand computing systems at both the software and hardware levels. My academic background in software is complemented by a multidisciplinary interest in computer science and engineering, with a particular fascination for advanced technological domains such as robotics, industrial automation, aerospace, self-driving vehicles, and drones.
