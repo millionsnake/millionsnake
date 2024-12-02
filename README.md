@@ -1,12 +1,27 @@
-## About Me 👤
+## 👤 About Me
 
 I am a 23-year-old Brazilian programmer driven by a desire to understand computing systems at both the software and hardware levels. My academic background in software is complemented by a multidisciplinary interest in computer science and engineering, with a particular fascination for advanced technological domains such as robotics, industrial automation, aerospace, self-driving vehicles, and drones.
 
-## Technical Journey 🛠️
+## 🛠️ Technical Journey
 
 My primary technological stack centers on Rust, leveraging the Actix web framework and SurrealDB for backend development. In parallel, I am acquiring proficiency in the MERN stack with TypeScript, ensuring comprehensive technological adaptability and the ability to work effectively across diverse project environments.
 
-## Current Projects 🏗️
+![Rust](https://img.shields.io/static/v1?style=for-the-badge&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF&label=)
+![Tauri](https://img.shields.io/static/v1?style=for-the-badge&message=Tauri&color=222222&logo=Tauri&logoColor=24C8D8&label=)
+![Actix](https://img.shields.io/static/v1?style=for-the-badge&message=Actix&color=000000&logo=Actix&logoColor=FFFFFF&label=)
+![SurrealDB](https://img.shields.io/static/v1?style=for-the-badge&message=SurrealDB&color=FF00A0&logo=SurrealDB&logoColor=FFFFFF&label=)
+![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
+![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=5FA04E&logo=Node.js&logoColor=FFFFFF&label=)
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
+![Amazon Web Services](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Web+Services&color=232F3E&logo=Amazon+Web+Services&logoColor=FFFFFF&label=)
+![Arduino](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00878F&logo=Arduino&logoColor=FFFFFF&label=)
+
+## 🏗️ Current Projects
 
 I am actively developing two private projects to expand my technical capabilities and practical experience:
 
@@ -23,7 +38,7 @@ A TypeScript-based Discord bot initially conceived for a private server, with po
 - Explore advanced bot functionality and user interaction design
 - Build a flexible, extensible tool that can potentially serve a broader user base
 
-## Intellectual Pursuits and Perspectives 🧠
+## 🧠 Intellectual Pursuits and Perspectives
 
 Technology apart, my curiosity spans several domains:
 
@@ -33,7 +48,7 @@ Technology apart, my curiosity spans several domains:
 
 - **Political and Ethical Framework**: I identify as a libertarian, emphasizing individual liberty and personal responsibility, while simultaneously maintaining a strong alignment with Christian ethical principles that prioritize compassion, personal integrity, and principled living.
 
-## Language Skills 📚
+## 📚 Language Skills
 
 Beyond computer languages and the pursuits mentioned above, I am also passionate about human languages:
 - Fluent in Portuguese and English
@@ -41,16 +56,7 @@ Beyond computer languages and the pursuits mentioned above, I am also passionate
 - Currently learning French
 - Plan to learn Mandarin
 
-![Rust](https://img.shields.io/static/v1?style=for-the-badge&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF&label=)
-![Tauri](https://img.shields.io/static/v1?style=for-the-badge&message=Tauri&color=222222&logo=Tauri&logoColor=24C8D8&label=)
-![Actix](https://img.shields.io/static/v1?style=for-the-badge&message=Actix&color=000000&logo=Actix&logoColor=FFFFFF&label=)
-![SurrealDB](https://img.shields.io/static/v1?style=for-the-badge&message=SurrealDB&color=FF00A0&logo=SurrealDB&logoColor=FFFFFF&label=)
-![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
-![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
-![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
-![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
-![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=5FA04E&logo=Node.js&logoColor=FFFFFF&label=)
-![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
-![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
-![Amazon Web Services](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Web+Services&color=232F3E&logo=Amazon+Web+Services&logoColor=FFFFFF&label=)
+## Contact Info ℹ️
+<a href="https://discord.com/users/222899628725633024">![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)
+<a href="">![Proton Mail](https://img.shields.io/static/v1?style=for-the-badge&message=Proton+Mail&color=6D4AFF&logo=Proton+Mail&logoColor=FFFFFF&label=)
+<a href="">![X](https://img.shields.io/static/v1?style=for-the-badge&message=X&color=000000&logo=X&logoColor=FFFFFF&label=)
