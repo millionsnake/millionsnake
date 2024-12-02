@@ -1,76 +1,43 @@
-Currently on a journey to learn to a competent enough level a multitude of technologies related to programming. 
-I will be focusing on one "stack" at a time, so that I can progress more efficiently without needing to multitask.
+# About Me
 
-### MAIN (on hold)
+I am a dedicated programmer committed to deepening my technical expertise and evolving into a comprehensive software engineer. My current focus is on building robust and efficient systems, with a principled approach to technology selection and implementation.
 
-Currently trying to catch up to my C/C++ and Java knowledge so that I can effectively use Rust instead for most matters.
+## Technical Journey
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+My primary technological stack centers on Rust, leveraging the Actix web framework and SurrealDB for backend development. While I am passionate about these modern technologies, I maintain pragmatic flexibility by simultaneously developing proficiency in the MERN stack (MongoDB, Express.js, React, Node.js) with TypeScript. This strategic approach ensures adaptability across different project requirements and technological ecosystems.
 
-### WEB (learning...)
+## Language Skills
 
-Common language of most frameworks and technologies on the web, using JS makes everything more consistent.
+Beyond programming languages, I am passionate about human languages:
+- Fluent in Portuguese and English
+- Intermediate proficiency in Japanese and Spanish
+- Currently learning French
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+My enthusiasm for languages extends both to programming and communication, demonstrating my commitment to continuous learning and cross-cultural understanding.
 
-Server-side JS and route configuration.
+v2
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+# About Me
 
-Dynamic frontend for applications with React, and components using Mantine.
+I am a passionate technologist and programmer driven by a profound desire to understand computing systems at both the software and hardware levels. My academic background in software is complemented by a deep, multidisciplinary interest in computer science and engineering, with a particular fascination for advanced technological domains such as autonomous systems, robotics, industrial automation, aerospace technologies, and cutting-edge transportation innovations like self-driving vehicles and drones.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Mantine](https://img.shields.io/static/v1?style=for-the-badge&message=Mantine&color=339AF0&logo=Mantine&logoColor=FFFFFF&label=)
+## Technical Journey
 
-NoSQL database good enough for most small to medium-sized projects
+My primary technological stack centers on Rust, leveraging the Actix web framework and SurrealDB for backend development. In parallel, I am developing proficiency in the MERN stack with TypeScript, ensuring comprehensive technological adaptability and the ability to work effectively across diverse project environments.
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+## Intellectual Pursuits and Perspectives
 
-DevOps/Cloud
+Beyond technology, my intellectual curiosity spans several domains:
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- **Neuropsychology**: I am deeply intrigued by the mechanisms of human cognition, and the complex interactions between neurobiology and psychological processes.
 
-### OTHERS (on hold)
+- **Economic Philosophy**: My interest in economics transcends financial analysis, focusing instead on the deeper philosophical underpinnings of economic systems, human decision-making, and the complex interactions between individual choice and broader societal structures.
 
-Wireframes and diagrams
+- **Political and Ethical Framework**: I identify as a libertarian, emphasizing individual liberty and personal responsibility, while simultaneously maintaining a strong alignment with Christian ethical principles that prioritize compassion, personal integrity, and principled living.
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## Language Skills
 
-Image manipulation tool for use in frontend
-
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-
-Video Editing tool
-
-![DaVinci Resolve](https://img.shields.io/static/v1?style=for-the-badge&message=DaVinci+Resolve&color=233A51&logo=DaVinci+Resolve&logoColor=FFFFFF&label=)
-
-Social Media Content
-
-![Canva](https://img.shields.io/static/v1?style=for-the-badge&message=Canva&color=222222&logo=Canva&logoColor=00C4CC&label=)
-
-Data visualization
-
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-Database for bigger, complex projects
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-Operating System (CLI)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-Versioning and Collaboration
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-Discord App development using JavaScript
-
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+Beyond programming languages, I am passionate about human languages:
+- Fluent in Portuguese and English
+- Intermediate proficiency in Japanese and Spanish
+- Currently learning French
