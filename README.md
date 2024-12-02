@@ -25,7 +25,7 @@ A TypeScript-based Discord bot initially conceived for a private server, with po
 
 ## Intellectual Pursuits and Perspectives 🧠
 
-Beyond technology, my curiosity spans several domains:
+Technology apart, my curiosity spans several domains:
 
 - **Neuropsychology**: I am intrigued by the mechanisms of human cognition, and the interactions between neurobiology and psychological processes.
 
