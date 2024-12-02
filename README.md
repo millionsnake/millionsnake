@@ -8,7 +8,7 @@ I am a 23-year-old Brazilian programmer driven by a desire to understand computi
 
 - **Programming Languages:** Rust, TypeScript
 - **Web Technologies:** HTML, CSS, Express, React, Mantine
-- **Backend Development:** Node.js, SurrealDB, Actix
+- **Backend Development:** Node.js, MongoDB, SurrealDB, Actix
 - **Desktop Development:** Tauri
 
 ### Infrastructure and Deployment
@@ -33,6 +33,7 @@ I am a 23-year-old Brazilian programmer driven by a desire to understand computi
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ![Mantine](https://img.shields.io/static/v1?style=for-the-badge&message=Mantine&color=339AF0&logo=Mantine&logoColor=FFFFFF&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=5FA04E&logo=Node.js&logoColor=FFFFFF&label=)
+![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 ![NGINX](https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=009639&logo=NGINX&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
