@@ -10,6 +10,7 @@ I am a 23-year-old Brazilian programmer driven by a desire to understand computi
 - **Web Technologies:** HTML, CSS, Express, React, Mantine
 - **Backend Development:** Node.js, MongoDB, SurrealDB, Actix
 - **Desktop Development:** Tauri
+- **Mobile Development:** N/A
 
 ### Infrastructure and Deployment
 
