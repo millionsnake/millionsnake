@@ -10,7 +10,6 @@ I am a 23-year-old Brazilian programmer driven by a desire to understand computi
 - **Web Technologies:** HTML, CSS, Express, React, Mantine
 - **Backend Development:** Node.js, MongoDB, SurrealDB, Actix
 - **Desktop Development:** Tauri
-- **Mobile Development:** N/A
 
 ### Infrastructure and Deployment
 
@@ -84,6 +83,10 @@ Beyond computer languages and the pursuits mentioned above, I am also passionate
 - Intermediate proficiency in Japanese and Spanish
 - Currently learning French
 - Plan to learn Mandarin
+
+## 📂 Additional Information
+
+For more insights beyond what is covered here, check out the [Additional Details](./ADDITIONAL.md) file in this repository. It delves into topics not mentioned in this document, offering a broader perspective on my interests, projects, and journey.
 
 ## 📞 Contact Info
 
