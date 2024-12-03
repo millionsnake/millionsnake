@@ -90,7 +90,7 @@ While technology forms the core of my professional interests, my curiosity exten
 
 - **Political and Ethical Framework**: I identify as a libertarian, emphasizing individual liberty and personal responsibility, while simultaneously maintaining a strong alignment with Christian ethical principles that prioritize compassion, personal integrity, and principled living.
 
-📚 Language Skills
+## 📚 Language Skills
 
 In addition to programming languages, I am passionate about human languages and the connections they foster across cultures:
 - Fluent: Portuguese (native) and English
