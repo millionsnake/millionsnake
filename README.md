@@ -105,7 +105,12 @@ In addition to programming languages, I am passionate about human languages and 
 
 For me, language learning is not just about communication, it’s a way to broaden my worldview, and strengthen connections with people from around the globe.
 
+## 💖 Support
+
+At the moment, I do not have support options enabled, but this is something I may consider in the future. I am exploring ideas such as taking on commissions, building a community around my projects and interests, or creating video content to share my knowledge and experiences. While nothing is set in stone, I appreciate any interest or encouragement as I continue to grow and develop in my journey.
+
 ## 📞 Contact Info
 
 <a href="https://discord.com/users/222899628725633024">![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)</a>
 <a href="mailto:millionsnake@protonmail.com">![Proton Mail](https://img.shields.io/static/v1?style=for-the-badge&message=Proton+Mail&color=6D4AFF&logo=Proton+Mail&logoColor=FFFFFF&label=)</a>
+<a href="ko-fi.com/millionsnake">![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)</a>
