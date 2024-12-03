@@ -66,24 +66,6 @@ An Internet of Things (IoT) home automation project utilizing ESP32 microcontrol
 - Gain practical experience with low-level programming and hardware interaction
 - Create an automation framework that can be incrementally expanded and customized, so as to enable other future projects with larger scopes
 
-## 🧠 Intellectual Pursuits and Perspectives
-
-Technology apart, my curiosity spans several domains:
-
-- **Neuropsychology**: I am intrigued by the mechanisms of human cognition, and the interactions between neurobiology and psychological processes.
-
-- **Economic Philosophy**: My interest in economics transcends financial analysis, focusing instead on the philosophical underpinnings of economic systems, human decision-making, and the interactions between individual choice and broader societal structures.
-
-- **Political and Ethical Framework**: I identify as a libertarian, emphasizing individual liberty and personal responsibility, while simultaneously maintaining a strong alignment with Christian ethical principles that prioritize compassion, personal integrity, and principled living.
-
-## 📚 Language Skills
-
-Beyond computer languages and the pursuits mentioned above, I am also passionate about human languages:
-- Fluent in Portuguese and English
-- Intermediate proficiency in Japanese and Spanish
-- Currently learning French
-- Plan to learn Mandarin
-
 ## 📂 Additional Information
 
 For more insights beyond what is covered here, check out the [Additional Details](./ADDITIONAL.md) file in this repository. It delves into topics not mentioned in this document, offering a broader perspective on my interests, projects, and journey.
