@@ -82,7 +82,7 @@ An Internet of Things (IoT) home automation project utilizing ESP32 microcontrol
 
 ## 🧠 Intellectual Pursuits and Perspectives
 
-Technology apart, my curiosity spans several domains:
+While technology forms the core of my professional interests, my curiosity extends into several diverse fields:
 
 - **Neuropsychology**: I am intrigued by the mechanisms of human cognition, and the interactions between neurobiology and psychological processes.
 
@@ -90,13 +90,15 @@ Technology apart, my curiosity spans several domains:
 
 - **Political and Ethical Framework**: I identify as a libertarian, emphasizing individual liberty and personal responsibility, while simultaneously maintaining a strong alignment with Christian ethical principles that prioritize compassion, personal integrity, and principled living.
 
-## 📚 Language Skills
+📚 Language Skills
 
-Beyond computer languages and the pursuits mentioned above, I am also passionate about human languages:
-- Fluent in Portuguese and English
-- Intermediate proficiency in Japanese and Spanish
-- Currently learning French
-- Plan to learn Mandarin
+In addition to programming languages, I am passionate about human languages and the connections they foster across cultures:
+- Fluent: Portuguese (native) and English
+- Intermediate: Japanese and Spanish
+- Currently Learning: French
+- Future Goals: Mastering Mandarin
+
+For me, language learning is not just about communication, it’s a way to broaden my worldview, and strengthen connections with people from around the globe.
 
 ## 📞 Contact Info
 
