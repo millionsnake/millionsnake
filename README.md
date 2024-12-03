@@ -2,12 +2,25 @@
 
 I am a 23-year-old Brazilian programmer driven by a desire to understand computing systems at both the software and hardware levels. My academic background in software is complemented by a multidisciplinary interest in computer science and engineering, with a particular fascination for advanced technological domains such as robotics, industrial automation, aerospace, self-driving vehicles, and drones.
 
-## 🛠️ Technical Journey
+## 🖋️ Programming Philosophy
+
+As a programmer, I approach software development with a balance of pragmatism and artistry. I believe in the importance of being adaptable, ensuring I always have a backup tool at my disposal for scenarios requiring flexibility or compatibility with existing codebases.
+
+At the same time, I strive to delve deep into the underlying mechanisms of the systems I work with. Understanding how a computer works at its core enables me to write code that is both efficient and meaningful. My choice of tools is intentional: I gravitate toward ecosystems that are logical, consistent, and empowering—where I can craft software as if it were a form of art. Rust, for example, is a language that resonates with my values due to its focus on safety, performance, and expressiveness.
+
+I am a perfectionist by nature, and this drives me to prioritize:
+- Security: Ensuring my code is robust against vulnerabilities.
+- Testing: Delivering reliable and high-quality software through thorough testing.
+- Documentation: Writing clear, comprehensive documentation to enhance maintainability and collaboration.
+
+For me, programming is not just about solving problems but about creating something that is both functional and elegant, embodying the principles of craftsmanship and precision.
+
+## 🛠️ Tools
 
 ### Core Technologies
 
 - **Programming Languages:** Rust, TypeScript
-- **Web Technologies:** HTML, CSS, Express, React, Mantine
+- **Web Technologies:** HTML, CSS, Express, React, Next.js, Mantine
 - **Backend Development:** Node.js, MongoDB, SurrealDB, Actix
 - **Desktop Development:** Tauri
 
@@ -66,9 +79,23 @@ An Internet of Things (IoT) home automation project utilizing ESP32 microcontrol
 - Gain practical experience with low-level programming and hardware interaction
 - Create an automation framework that can be incrementally expanded and customized, so as to enable other future projects with larger scopes
 
-## 📂 Additional Information
+## 🧠 Intellectual Pursuits and Perspectives
 
-For more insights beyond what is covered here, check out the [Additional Details](./ADDITIONAL.md) file in this repository. It delves into topics not mentioned in this document, offering a broader perspective on my interests, projects, and journey.
+Technology apart, my curiosity spans several domains:
+
+- **Neuropsychology**: I am intrigued by the mechanisms of human cognition, and the interactions between neurobiology and psychological processes.
+
+- **Economic Philosophy**: My interest in economics transcends financial analysis, focusing instead on the philosophical underpinnings of economic systems, human decision-making, and the interactions between individual choice and broader societal structures.
+
+- **Political and Ethical Framework**: I identify as a libertarian, emphasizing individual liberty and personal responsibility, while simultaneously maintaining a strong alignment with Christian ethical principles that prioritize compassion, personal integrity, and principled living.
+
+## 📚 Language Skills
+
+Beyond computer languages and the pursuits mentioned above, I am also passionate about human languages:
+- Fluent in Portuguese and English
+- Intermediate proficiency in Japanese and Spanish
+- Currently learning French
+- Plan to learn Mandarin
 
 ## 📞 Contact Info
 
