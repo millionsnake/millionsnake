@@ -17,6 +17,11 @@ For me, programming is not just about solving problems but about creating someth
 
 ## 🛠️ Tools
 
+⚠️ Disclaimer:
+I am currently in the process of building expertise with the technologies listed in my stack of choice. While this list reflects the tools and frameworks I am committed to mastering, it does not imply advanced proficiency at this time. My goal is to achieve a strong level of competency across most of these technologies by the end of 2025.
+
+To ensure steady progress, I follow a structured learning methodology, dedicating focused three-month periods to specific areas of study. For example, by February 2025, I aim to attain a solid understanding of web development, encompassing JavaScript/TypeScript, Node.js, Express, React, MongoDB, Next.js, Mantine, HTML, CSS, and Nginx.
+
 ### Core Technologies
 
 - **Programming Languages:** Rust, TypeScript
