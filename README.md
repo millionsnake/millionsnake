@@ -25,8 +25,8 @@ To ensure steady progress, I follow a structured learning methodology, dedicatin
 ### Core Technologies
 
 - **Programming Languages:** Rust, TypeScript
-- **Web Technologies:** HTML, CSS, Express, React, Next.js, Mantine
-- **Backend Development:** Node.js, MongoDB, SurrealDB, Actix
+- **Web Technologies:** HTML, CSS, Express, Angular, NestJS
+- **Backend Development:** Node, MongoDB, Actix, PostgreSQL
 - **Desktop Development:** Tauri
 
 ### Infrastructure and Deployment
@@ -44,14 +44,9 @@ To ensure steady progress, I follow a structured learning methodology, dedicatin
 ![Rust](https://img.shields.io/static/v1?style=for-the-badge&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF&label=)
 ![Tauri](https://img.shields.io/static/v1?style=for-the-badge&message=Tauri&color=222222&logo=Tauri&logoColor=24C8D8&label=)
 ![Actix](https://img.shields.io/static/v1?style=for-the-badge&message=Actix&color=000000&logo=Actix&logoColor=FFFFFF&label=)
-![SurrealDB](https://img.shields.io/static/v1?style=for-the-badge&message=SurrealDB&color=FF00A0&logo=SurrealDB&logoColor=FFFFFF&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
-![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
-![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
-![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
-![Mantine](https://img.shields.io/static/v1?style=for-the-badge&message=Mantine&color=339AF0&logo=Mantine&logoColor=FFFFFF&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=5FA04E&logo=Node.js&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 ![NGINX](https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=009639&logo=NGINX&logoColor=FFFFFF&label=)
@@ -67,7 +62,7 @@ To ensure steady progress, I follow a structured learning methodology, dedicatin
 I am currently developing three private projects to expand my technical capabilities and practical experience:
 
 ### Business Management Application
-A comprehensive full-stack web application designed for a small business, using TypeScript, Node.js, Express, MongoDB, and React. This project serves as a strategic opportunity to:
+A comprehensive full-stack web application designed for a small business, using TypeScript, Node.js, Express, MongoDB, and Angular. This project serves as a strategic opportunity to:
 - Translate business requirements into precise technical solutions
 - Enhance skills in requirements gathering and client-centric software development
 - Implement professional software design methodologies, including UML diagramming and iterative prototyping
@@ -98,7 +93,7 @@ While technology forms the core of my professional interests, my curiosity exten
 ## 📚 Language Skills
 
 In addition to programming languages, I am passionate about human languages and the connections they foster across cultures:
-- Fluent: Portuguese (native) and English
+- Fluent: Portuguese and English
 - Intermediate: Japanese and Spanish
 - Currently Learning: French
 - Future Goals: Mastering Mandarin
@@ -107,7 +102,7 @@ For me, language learning is not just about communication, it’s a way to broad
 
 ## 💖 Support
 
-At the moment, I do not have support options enabled, but this is something I may consider in the future. I am exploring ideas such as taking on commissions, building a community around my projects and interests, or creating video content to share my knowledge and experiences. While nothing is set in stone, I appreciate any interest or encouragement as I continue to grow and develop in my journey.
+At the moment, I do not have support options enabled, but this is something I may consider in the future if and when I start doing freelance projects, or whenever my projects grow in scale. For now, I am simply exploring ideas such as building a community around my projects and interests, and creating video content to share my knowledge and experiences. While nothing is set in stone, I appreciate any interest or encouragement as I continue to grow and develop in my journey.
 
 ## 📞 Contact Info
 
