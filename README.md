@@ -22,7 +22,7 @@ I am currently in the process of building expertise with the technologies listed
 
 - **Programming Languages:** Rust, TypeScript
 - **Web Technologies:** HTML, CSS, Express, Angular, NestJS
-- **Backend Development:** Node, MongoDB, Actix, PostgreSQL
+- **Backend Development:** Node.js, MongoDB, Actix, PostgreSQL
 - **Desktop Development:** Tauri
 
 ### Infrastructure and Deployment
@@ -55,8 +55,6 @@ I am currently in the process of building expertise with the technologies listed
 
 ## 🏗️ Current Projects
 
-I am currently developing three private projects to expand my technical capabilities and practical experience:
-
 ### Business Management Application
 A comprehensive full-stack web application designed for a small business, using TypeScript, Node.js, Express, MongoDB, and Angular. This project serves as a strategic opportunity to:
 - Translate business requirements into precise technical solutions
@@ -70,19 +68,13 @@ A TypeScript-based Discord bot with its own dashboard, initially conceived for a
 - Explore advanced bot functionality and user interaction design
 - Build a tool that can potentially serve a broader user base
 
-### Home Automation System (IoT)
-An Internet of Things (IoT) home automation project utilizing ESP32 microcontrollers, the MQTT protocol, and C++ programming. An accompanying dashboard application for desktop may be developed using Rust and Tauri. Through this project, I aim to:
-- Develop expertise in embedded systems and IoT technology
-- Gain practical experience with low-level programming and hardware interaction
-- Create an automation framework that can be incrementally expanded and customized, so as to enable other future projects with larger scopes
-
 ## 🧠 Intellectual Pursuits and Perspectives
 
 While technology forms the core of my professional interests, my curiosity extends into several diverse fields:
 
 - **Neuropsychology**: I am intrigued by the mechanisms of human cognition, and the interactions between neurobiology and psychological processes.
 
-- **Economic Philosophy**: My interest in economics transcends financial analysis, focusing instead on the philosophical underpinnings of economic systems, human decision-making, and the interactions between individual choice and broader societal structures.
+- **Economic Philosophy**: My interest in economics is not restricted to financial analysis, focusing instead on the philosophical underpinnings of economic systems, human decision-making, and the interactions between individual choice and broader societal structures.
 
 - **Political and Ethical Framework**: I identify as a libertarian, emphasizing individual liberty and personal responsibility, while simultaneously maintaining a strong alignment with Christian ethical principles that prioritize compassion, personal integrity, and principled living.
 
@@ -92,7 +84,7 @@ In addition to programming languages, I am passionate about human languages and 
 - Fluent: Portuguese and English
 - Intermediate: Japanese and Spanish
 - Currently Learning: French
-- Future Goals: Mastering Mandarin
+- Future Goals: Mastering Mandarin and German.
 
 For me, language learning is not just about communication, it’s a way to broaden my worldview, and strengthen connections with people from around the globe.
 
