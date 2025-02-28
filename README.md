@@ -96,6 +96,8 @@ While technology is an important part of my professional interests, my curiosity
 
 **Japanese**: Intermediate
 
+- In 2023, I attained N3-level proficiency in Japanese, as certified by the JLPT. I am currently working toward N2 certification.
+
 **Spanish**: Intermediate
 
 **French**: Beginner
