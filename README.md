@@ -4,23 +4,19 @@ I am a 23-year-old Brazilian programmer driven by a desire to understand computi
 
 ## 🖋️ Programming Philosophy
 
-As a programmer, I approach software development with a balance of pragmatism and artistry. I believe in the importance of being adaptable, ensuring I always have a backup tool at my disposal for scenarios requiring flexibility or compatibility with existing codebases.
-
-At the same time, I strive to delve deep into the underlying mechanisms of the systems I work with. Understanding how a computer works at its core enables me to write code that is both efficient and meaningful. My choice of tools is intentional: I gravitate toward ecosystems that are logical, consistent, and empowering—where I can craft software as if it were a form of art. Rust, for example, is a language that resonates with my values due to its focus on safety, performance, and expressiveness.
+As a programmer, I approach software development with a balance of pragmatism and artistry. I believe in the importance of being adaptable, ensuring I always have a backup tool at my disposal for scenarios requiring flexibility or compatibility with existing codebases. At the same time, I strive to delve deep into the underlying mechanisms of the systems I work with. Understanding how a computer works at its core enables me to write code that is both efficient and meaningful.
 
 I am a perfectionist by nature, and this drives me to prioritize:
 - Security: Ensuring my code is robust against vulnerabilities.
 - Testing: Delivering reliable and high-quality software through thorough testing.
 - Documentation: Writing clear, comprehensive documentation to enhance maintainability and collaboration.
 
-For me, programming is not just about solving problems but about creating something that is both functional and elegant, embodying the principles of craftsmanship and precision.
+For me, programming is not just about solving problems but about creating something that is both functional and elegant.
 
 ## 🛠️ Tools
 
 ⚠️ Disclaimer:
 I am currently in the process of building expertise with the technologies listed in my stack of choice. While this list reflects the tools and frameworks I am committed to mastering, it does not imply advanced proficiency at this time. My goal is to achieve a strong level of competency across most of these technologies by the end of 2025.
-
-To ensure steady progress, I follow a structured learning methodology, dedicating focused three-month periods to specific areas of study. For example, by February 2025, I aim to attain a solid understanding of web development, encompassing JavaScript/TypeScript, Node.js, Express, React, MongoDB, Next.js, Mantine, HTML, CSS, and Nginx.
 
 ### Core Technologies
 
