@@ -76,10 +76,9 @@ While technology is an important part of my professional interests, my curiosity
 
 - **Anime**: Japanese anime has held a special place in my heart since I was fifteen. At the time, shows like Angel Beats! provided comfort, allowing me to laugh, cry, and connect with characters in ways that helped me navigate daily life. Anime became a meaningful escape during a difficult period marked by bullying and the typical struggles of adolescence.
 
-- **Language Learning**: 
+- **Language Learning**: Although I picked up English quickly, it wasn’t due to a general interest in language learning. However, as my fascination with Japanese culture grew through anime, I decided to actively pursue learning Japanese. Since then, studying the language of a culture I enjoy or have friends from has become a rewarding experience. It allows me to see the world from a different perspective and challenges my brain to think in new ways.
 
-
-- **Neuropsychology**: I am deeply intrigued by human cognition and the complex interplay between neurobiology and psychological processes. I often reflect on topics related to psychology and the brain, keeping a journal to preserve my most important thoughts. One of my greatest aspirations is to guide and inspire those who feel lost, offering them hope for a better future. While I have yet to achieve many of my personal goals, I strive to become someone others can look up to—an aspiration that, once realized, would bring me a profound sense of fulfillment.
+- **Neuropsychology**: I am intrigued by human cognition and the complex interplay between neurobiology and psychological processes. I often reflect on topics related to psychology and the brain, keeping a journal to preserve my most important thoughts. One of my greatest aspirations is to guide and inspire those who feel lost, offering them hope for a better future. While I have yet to achieve many of my personal goals, I strive to become someone others can look up to—an aspiration that, once realized, would bring me a profound sense of fulfillment.
 
 - **Economic Philosophy**: My interest in economics is not restricted to financial analysis, focusing instead on the philosophical underpinnings of economic systems, human decision-making, and the interactions between individual choice and broader societal structures. From a young age, I have identified as a libertarian, valuing individual liberty and personal responsibility while also adhering to Christian ethical principles that emphasize compassion, integrity, and principled living. Additionally, I have always been passionate about world history and geography—subjects in which I consistently excelled during my studies and take pride in to this day.
 
@@ -91,19 +90,19 @@ While technology is an important part of my professional interests, my curiosity
 
 **English**: Fluent
 
-From a young age, I developed a strong interest in English, as it was the original language of my favorite TV shows and video games. By the time I was eleven, I had already reached an upper-intermediate to advanced level. Between the ages of thirteen and seventeen, I attended an English school, which refined my skills and helped me gain confidence in using the language publicly. Today, I continue to use English daily to communicate with friends from around the world via the internet.
+- From a young age, I developed a strong interest in English, as it was the original language of my favorite TV shows and video games. By the time I was eleven, I had already reached an upper-intermediate to advanced level. Between the ages of thirteen and seventeen, I attended an English school, which refined my skills and helped me gain confidence in using the language publicly. Today, I continue to use English daily to communicate with friends from around the world via the internet.
 
-In 2018, I took both the MET and the TOEFL iBT. I was certified as a C1-level English speaker on the CEFR (Common European Framework of Reference) through the MET and achieved a score of 109 on the TOEFL.
+- In 2018, I took both the MET and the TOEFL iBT. I was certified as a C1-level English speaker on the CEFR (Common European Framework of Reference) through the MET and achieved a score of 109 on the TOEFL.
 
-**Japanese**:
+**Japanese**: Intermediate
 
-**Spanish**: 
+**Spanish**: Intermediate
 
-**French**:
+**French**: Beginner
 
-**German**:
+**German**: Intend to learn
 
-**Mandarin Chinese**:
+**Mandarin Chinese**: Intend to learn
 
 ## 💖 Support
 
