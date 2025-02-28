@@ -68,13 +68,15 @@ A TypeScript-based Discord bot with its own dashboard, initially conceived for a
 - Explore advanced bot functionality and user interaction design
 - Build a tool that can potentially serve a broader user base
 
-## 🧠 Intellectual Pursuits and Perspectives
+## 🧠 Interests and Pursuits
 
 While technology is an important part of my professional interests, my curiosity extends into several fields. I believe each one contributes in a unique way to the individual I have become, and I would be glad if you were to take some of your time to read about them:
 
-- **Gaming and Anime**:
+- **Gaming**: Gaming has always been one of my favorite pastimes, and in recent years, I have gravitated toward story-rich single-player experiences and cooperative multiplayer games that allow me to create meaningful memories with friends. While primarily a form of entertainment, some games offer deep lore, rich character backstories, and opportunities to develop teamwork, communication, and problem-solving skills. Some of my favorite games include Helldivers 2, VRChat, and Genshin Impact.
 
-- **Language Learning**:
+- **Anime**: Japanese anime has held a special place in my heart since I was fifteen. At the time, shows like Angel Beats! provided comfort, allowing me to laugh, cry, and connect with characters in ways that helped me navigate daily life. Anime became a meaningful escape during a difficult period marked by bullying and the typical struggles of adolescence.
+
+- **Language Learning**: 
 
 
 - **Neuropsychology**: I am deeply intrigued by human cognition and the complex interplay between neurobiology and psychological processes. I often reflect on topics related to psychology and the brain, keeping a journal to preserve my most important thoughts. One of my greatest aspirations is to guide and inspire those who feel lost, offering them hope for a better future. While I have yet to achieve many of my personal goals, I strive to become someone others can look up to—an aspiration that, once realized, would bring me a profound sense of fulfillment.
@@ -89,9 +91,9 @@ While technology is an important part of my professional interests, my curiosity
 
 **English**: Fluent
 
-From a young age, I developed a strong interest in English, as it was the original language of my favorite TV shows and video games. By the time I was 11, I had already reached an upper-intermediate to advanced level. Between the ages of 13 and 17, I attended an English school, which refined my skills and helped me gain confidence in using the language publicly. Today, I continue to use English daily to communicate with friends from around the world via the internet.
+From a young age, I developed a strong interest in English, as it was the original language of my favorite TV shows and video games. By the time I was eleven, I had already reached an upper-intermediate to advanced level. Between the ages of thirteen and seventeen, I attended an English school, which refined my skills and helped me gain confidence in using the language publicly. Today, I continue to use English daily to communicate with friends from around the world via the internet.
 
-Regarding proficiency, I took my first exam, the MET, in which I was certified as a C1-level English speaker according to the CEFR (Common European Framework of Reference). Later, in 2018, I took the TOEFL iBT, achieving a score of 109.
+In 2018, I took both the MET and the TOEFL iBT. I was certified as a C1-level English speaker on the CEFR (Common European Framework of Reference) through the MET and achieved a score of 109 on the TOEFL.
 
 **Japanese**:
 
