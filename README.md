@@ -76,19 +76,22 @@ While technology is an important part of my professional interests, my curiosity
 
 - **Language Learning**:
 
-- **Neuropsychology**: I am intrigued by the mechanisms of human cognition, and the interactions between neurobiology and psychological processes. I frequently find myself pondering about matters related to psychology and the brain, and even keep a journal to make sure I don't forget about some of my most important thoughts. As such, one of my deepest desires is to be able to help those who feel lost by offering them some guidance and hope for a better future. As I am right now, it is hard to present myself as an inspiring figure, as I haven't accomplished most of my goals in life yet. One day, however, I would feel realized upon finding that I have those who look up to me.
 
-- **Economic Philosophy**: My interest in economics is not restricted to financial analysis, focusing instead on the philosophical underpinnings of economic systems, human decision-making, and the interactions between individual choice and broader societal structures. My interest for such things was born from the fact that from a young age I have identified as a libertarian, emphasizing individual liberty and personal responsibility, while simultaneously maintaining a strong alignment with Christian ethical principles that prioritize compassion, personal integrity, and principled living. I have also always had a passion for learning about world history and geography, and was always at the top of my class when it came to these subjects, which is something I can say I am a little proud of.
+- **Neuropsychology**: I am deeply intrigued by human cognition and the complex interplay between neurobiology and psychological processes. I often reflect on topics related to psychology and the brain, keeping a journal to preserve my most important thoughts. One of my greatest aspirations is to guide and inspire those who feel lost, offering them hope for a better future. While I have yet to achieve many of my personal goals, I strive to become someone others can look up to—an aspiration that, once realized, would bring me a profound sense of fulfillment.
+
+- **Economic Philosophy**: My interest in economics is not restricted to financial analysis, focusing instead on the philosophical underpinnings of economic systems, human decision-making, and the interactions between individual choice and broader societal structures. From a young age, I have identified as a libertarian, valuing individual liberty and personal responsibility while also adhering to Christian ethical principles that emphasize compassion, integrity, and principled living. Additionally, I have always been passionate about world history and geography—subjects in which I consistently excelled during my studies and take pride in to this day.
 
 - **Strategy, Military Hardware, and Logistics**: 
 
 ## 📚 Language Skills
 
-For me, language learning is not just about communication, it’s a way to broaden my worldview, and strengthen connections with people from around the globe.
+**Portuguese**: Native
 
-**Portuguese**: Native. As I was born in Brazil, Portuguese is my first language.
+**English**: Fluent
 
-**English**: Fluent. From a young age, I have always expressed interest in the language, as it was the language all my favorite TV shows and video games were originally made in. By the time I was 11, I would already be speaking English at a reasonably advanced level, in between intermediate and advanced. From the time I was 13 up until the time I turned 17 I attended an English school, which polished my skills and allowed me to lose my fear of using the language in public. Nowadays, I continue using the language frequently to communicate with my friends from all over the world though the internet. My first proficiency exam was the MET, in which I was certified as a C1-level English speaker on the CEFR (Common European Frame of Reference) metric, and my second exam was the TOEFL iBT in which I achieved a score of 109. Both exams were taken in 2018.
+From a young age, I developed a strong interest in English, as it was the original language of my favorite TV shows and video games. By the time I was 11, I had already reached an upper-intermediate to advanced level. Between the ages of 13 and 17, I attended an English school, which refined my skills and helped me gain confidence in using the language publicly. Today, I continue to use English daily to communicate with friends from around the world via the internet.
+
+Regarding proficiency, I took my first exam, the MET, in which I was certified as a C1-level English speaker according to the CEFR (Common European Framework of Reference). Later, in 2018, I took the TOEFL iBT, achieving a score of 109.
 
 **Japanese**:
 
