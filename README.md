@@ -76,13 +76,13 @@ While technology is an important part of my professional interests, my curiosity
 
 - **Anime**: Japanese anime has held a special place in my heart since I was fifteen. At the time, shows like Angel Beats! provided comfort, allowing me to laugh, cry, and connect with characters in ways that helped me navigate daily life. Anime became a meaningful escape during a difficult period marked by bullying and the typical struggles of adolescence.
 
-- **Language Learning**: Although I picked up English quickly, it wasn’t due to a general interest in language learning. However, as my fascination with Japanese culture grew through anime, I decided to actively pursue learning Japanese. Since then, studying the language of a culture I enjoy or have friends from has become a rewarding experience. It allows me to see the world from a different perspective and challenges my brain to think in new ways.
+- **Language Learning**: Although I picked up English quickly, it wasn’t due to a general interest in language learning. However, as my fascination with Japanese culture grew through anime, I decided to actively pursue learning Japanese. Since then, studying the language of a culture I enjoy or have friends from has become a rewarding experience. It allows me to see the world from a different perspective and challenges me to think in new ways.
 
-- **Psychology**: I often reflect on topics related to psychology and the brain, keeping a journal to preserve my most important thoughts. While I am nothing more than an amateur, one of my greatest aspirations is to use my knowledge and experiences to guide and inspire those who feel lost. Though I have yet to achieve many of my personal goals, I strive to become someone others can one day look up to or feel grateful for—whether through the insights I share or the help I provide. Knowing that my knowledge has made a difference in someone’s life would be a fulfilling achievement.
+- **Psychology**: I often reflect on topics related to psychology and the mind, keeping a journal to preserve my most important thoughts. While I am nothing more than an amateur, one of my greatest aspirations is to use my knowledge and experiences to guide and inspire those who feel lost. Though I have yet to achieve many of my personal goals, I strive to become someone others can one day look up to or feel grateful for—whether through the insights I share or the help I provide. Knowing that my knowledge has made a difference in someone’s life would be a fulfilling achievement.
 
 - **Economic Philosophy**: My interest in economics is not restricted to financial analysis, focusing instead on the philosophical underpinnings of economic systems, human decision-making, and the interactions between individual choice and broader societal structures. From a young age, I have identified as a libertarian, valuing individual liberty and personal responsibility while also adhering to Christian ethical principles that emphasize compassion, integrity, and principled living. Additionally, I have always been passionate about world history and geography—subjects in which I consistently excelled during my studies and take pride in to this day.
 
-- **Strategy, Military Hardware, and Logistics**: 
+- **Military Hardware and Strategy**: 
 
 ## 📚 Language Skills
 
