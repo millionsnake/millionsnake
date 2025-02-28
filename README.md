@@ -70,23 +70,35 @@ A TypeScript-based Discord bot with its own dashboard, initially conceived for a
 
 ## 🧠 Intellectual Pursuits and Perspectives
 
-While technology forms the core of my professional interests, my curiosity extends into several diverse fields:
+While technology is an important part of my professional interests, my curiosity extends into several fields. I believe each one contributes in a unique way to the individual I have become, and I would be glad if you were to take some of your time to read about them:
 
-- **Neuropsychology**: I am intrigued by the mechanisms of human cognition, and the interactions between neurobiology and psychological processes.
+- **Gaming and Anime**:
 
-- **Economic Philosophy**: My interest in economics is not restricted to financial analysis, focusing instead on the philosophical underpinnings of economic systems, human decision-making, and the interactions between individual choice and broader societal structures.
+- **Language Learning**:
 
-- **Political and Ethical Framework**: I identify as a libertarian, emphasizing individual liberty and personal responsibility, while simultaneously maintaining a strong alignment with Christian ethical principles that prioritize compassion, personal integrity, and principled living.
+- **Neuropsychology**: I am intrigued by the mechanisms of human cognition, and the interactions between neurobiology and psychological processes. I frequently find myself pondering about matters related to psychology and the brain, and even keep a journal to make sure I don't forget about some of my most important thoughts. As such, one of my deepest desires is to be able to help those who feel lost by offering them some guidance and hope for a better future. As I am right now, it is hard to present myself as an inspiring figure, as I haven't accomplished most of my goals in life yet. One day, however, I would feel realized upon finding that I have those who look up to me.
+
+- **Economic Philosophy**: My interest in economics is not restricted to financial analysis, focusing instead on the philosophical underpinnings of economic systems, human decision-making, and the interactions between individual choice and broader societal structures. My interest for such things was born from the fact that from a young age I have identified as a libertarian, emphasizing individual liberty and personal responsibility, while simultaneously maintaining a strong alignment with Christian ethical principles that prioritize compassion, personal integrity, and principled living. I have also always had a passion for learning about world history and geography, and was always at the top of my class when it came to these subjects, which is something I can say I am a little proud of.
+
+- **Strategy, Military Hardware, and Logistics**: 
 
 ## 📚 Language Skills
 
-In addition to programming languages, I am passionate about human languages and the connections they foster across cultures:
-- Fluent: Portuguese and English
-- Intermediate: Japanese and Spanish
-- Currently Learning: French
-- Future Goals: Mastering Mandarin and German.
-
 For me, language learning is not just about communication, it’s a way to broaden my worldview, and strengthen connections with people from around the globe.
+
+**Portuguese**: Native. As I was born in Brazil, Portuguese is my first language.
+
+**English**: Fluent. From a young age, I have always expressed interest in the language, as it was the language all my favorite TV shows and video games were originally made in. By the time I was 11, I would already be speaking English at a reasonably advanced level, in between intermediate and advanced. From the time I was 13 up until the time I turned 17 I attended an English school, which polished my skills and allowed me to lose my fear of using the language in public. Nowadays, I continue using the language frequently to communicate with my friends from all over the world though the internet. My first proficiency exam was the MET, in which I was certified as a C1-level English speaker on the CEFR (Common European Frame of Reference) metric, and my second exam was the TOEFL iBT in which I achieved a score of 109. Both exams were taken in 2018.
+
+**Japanese**:
+
+**Spanish**: 
+
+**French**:
+
+**German**:
+
+**Mandarin Chinese**:
 
 ## 💖 Support
 
