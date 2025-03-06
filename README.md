@@ -2,6 +2,10 @@
 
 I am a 23-year-old Brazilian programmer driven by a desire to understand computing systems at both the software and hardware levels. My academic background in software is complemented by a multidisciplinary interest in computer science and engineering, with a particular fascination for advanced technological domains such as robotics, industrial automation, aerospace, self-driving vehicles, and drones.
 
+## 🎯 Goals
+
+TBD
+
 ## 🖋️ Programming Philosophy
 
 As a programmer, I approach software development with a balance of pragmatism and artistry. I believe in the importance of being adaptable, ensuring I always have a backup tool at my disposal for scenarios requiring flexibility or compatibility with existing codebases. At the same time, I strive to delve deep into the underlying mechanisms of the systems I work with. Understanding how a computer works at its core enables me to write code that is both efficient and meaningful.
@@ -84,6 +88,8 @@ While technology is an important part of my professional interests, my curiosity
 
 - **Military Hardware and Strategy**: 
 
+TBD
+
 ## 📚 Language Skills
 
 **Portuguese**: Native
@@ -96,11 +102,17 @@ While technology is an important part of my professional interests, my curiosity
 
 **Japanese**: Intermediate
 
+- TBD
+
 - In 2023, I attained N3-level proficiency in Japanese, as certified by the JLPT. I am currently working toward N2 certification.
 
 **Spanish**: Intermediate
 
+- TBD
+
 **French**: Beginner
+
+- TBD
 
 **German**: Intend to learn
 
