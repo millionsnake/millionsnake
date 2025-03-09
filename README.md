@@ -1,4 +1,7 @@
-```Last Updated: Sunday, March 9th 2025```
+```
+Last Updated: Sunday, March 9th 2025
+Versão em Potuguês Brasileiro: [CLIQUE AQUI](READMEPTBR.md)
+```
 
 ## 🎯 Goals
 
