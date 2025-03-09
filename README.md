@@ -1,7 +1,6 @@
 Last Updated: Sunday, March 9th 2025
 
-[日本語版](READMEJP.md)
-[Versão em Potuguês Brasileiro](READMEPTBR.md)
+[日本語版](READMEJP.md) | [Versão em Potuguês Brasileiro](READMEPTBR.md)
 
 ## 🎯 Goals
 
