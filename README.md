@@ -1,10 +1,6 @@
-## 👤 About Me
-
-I am a 23-year-old Brazilian programmer driven by a desire to understand computing systems at both the software and hardware levels. My academic background in software is complemented by a multidisciplinary interest in computer science and engineering, with a particular fascination for advanced technological domains such as robotics, industrial automation, aerospace, self-driving vehicles, and drones.
-
 ## 🎯 Goals
 
-TBD
+My primary goal is to start as a back-end developer, gradually taking on more responsibilities as I refine my skills. Eventually, I aspire to become a fully-fledged Software Engineer, leading my own projects and teams in a role similar to a tech lead. It would be especially rewarding to work with international companies and teams, as I dream of traveling abroad and potentially living in the U.S., Europe, or East Asia.
 
 ## 🖋️ Programming Philosophy
 
@@ -36,11 +32,6 @@ I am currently in the process of building expertise with the technologies listed
 - **Operating Systems:** Linux
 - **Version Control:** Git
 
-### Embedded and Hardware
-
-- **Microcontroller Development/Prototyping:** Arduino, ESP32
-- **Internet of Things:** MQTT
-
 ![Rust](https://img.shields.io/static/v1?style=for-the-badge&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF&label=)
 ![Tauri](https://img.shields.io/static/v1?style=for-the-badge&message=Tauri&color=222222&logo=Tauri&logoColor=24C8D8&label=)
 ![Actix](https://img.shields.io/static/v1?style=for-the-badge&message=Actix&color=000000&logo=Actix&logoColor=FFFFFF&label=)
@@ -54,8 +45,6 @@ I am currently in the process of building expertise with the technologies listed
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![Amazon Web Services](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Web+Services&color=232F3E&logo=Amazon+Web+Services&logoColor=FFFFFF&label=)
-![Arduino](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00878F&logo=Arduino&logoColor=FFFFFF&label=)
-![MQTT](https://img.shields.io/static/v1?style=for-the-badge&message=MQTT&color=660066&logo=MQTT&logoColor=FFFFFF&label=)
 
 ## 🏗️ Current Projects
 
@@ -76,19 +65,17 @@ A TypeScript-based Discord bot with its own dashboard, initially conceived for a
 
 While technology is an important part of my professional interests, my curiosity extends into several fields. I believe each one contributes in a unique way to the individual I have become, and I would be glad if you were to take some of your time to read about them:
 
-- **Gaming**: Gaming has always been one of my favorite pastimes, and in recent years, I have gravitated toward story-rich single-player experiences and cooperative multiplayer games that allow me to create meaningful memories with friends. While primarily a form of entertainment, some games offer deep lore, rich character backstories, and opportunities to develop teamwork, communication, and problem-solving skills. Some of my favorite games include Helldivers 2, VRChat, and Genshin Impact.
-
-- **Anime**: Japanese anime has held a special place in my heart since I was fifteen. At the time, shows like Angel Beats! provided comfort, allowing me to laugh, cry, and connect with characters in ways that helped me navigate daily life. Anime became a meaningful escape during a difficult period marked by bullying and the typical struggles of adolescence.
-
 - **Language Learning**: Although I picked up English quickly, it wasn’t due to a general interest in language learning. However, as my fascination with Japanese culture grew through anime, I decided to actively pursue learning Japanese. Since then, studying the language of a culture I enjoy or have friends from has become a rewarding experience. It allows me to see the world from a different perspective and challenges me to think in new ways.
 
-- **Psychology**: I often reflect on topics related to psychology and the mind, keeping a journal to preserve my most important thoughts. While I am nothing more than an amateur, one of my greatest aspirations is to use my knowledge and experiences to guide and inspire those who feel lost. Though I have yet to achieve many of my personal goals, I strive to become someone others can one day look up to or feel grateful for—whether through the insights I share or the help I provide. Knowing that my knowledge has made a difference in someone’s life would be a fulfilling achievement.
+- **Self-improvement**: One of my greatest aspirations is to be able to use my knowledge and experiences to inspire those who are in need of guidance. Though I have yet to achieve many of my personal goals, I strive to become someone others can one day look up to or feel grateful for—whether through the insights I share or the help I provide. Knowing that my knowledge has made a difference in someone’s life would be a fulfilling achievement.
 
 - **Economic Philosophy**: My interest in economics is not restricted to financial analysis, focusing instead on the philosophical underpinnings of economic systems, human decision-making, and the interactions between individual choice and broader societal structures. From a young age, I have identified as a libertarian, valuing individual liberty and personal responsibility while also adhering to Christian ethical principles that emphasize compassion, integrity, and principled living. Additionally, I have always been passionate about world history and geography—subjects in which I consistently excelled during my studies and take pride in to this day.
 
-- **Military Hardware and Strategy**: 
+- **Gaming**: Gaming has always been one of my favorite pastimes, and in recent years, I have gravitated toward story-rich single-player experiences and cooperative multiplayer games that allow me to create meaningful memories with friends. While primarily a form of entertainment, some games offer deep lore, rich character backstories, and opportunities to develop teamwork, communication, and problem-solving skills. Some of my favorite games include Helldivers 2, VRChat, and Genshin Impact.
 
-TBD
+- **Anime**: Japanese anime has held a special place in my heart since I was fifteen. At the time, shows like Angel Beats! provided comfort, allowing me to laugh, cry, and connect with characters in ways that helped me navigate daily life. Anime became a meaningful escape during a difficult period marked by the typical struggles of adolescence.
+
+- **Military Hardware and Strategy**: A bit on the unorthodox side, my interests also extend to military aircraft, helicopters, tanks, artillery systems, and other weaponry and equipment. This passion naturally ties into my love for real-time strategy (RTS) and grand strategy games, where I have spent countless hours playing titles like Total War, Wargame, and Stellaris.
 
 ## 📚 Language Skills
 
@@ -102,17 +89,17 @@ TBD
 
 **Japanese**: Intermediate
 
-- TBD
+- As mentioned in my anime section, my love for Japanese media sparked my interest in learning the language. Nearly a decade has passed since then, and although my studies were on and off for much of that time, I have now reached a level where I can watch most of my favorite shows without relying too much on subtitles and understand most casual conversations. My biggest goal at the moment is to overcome my fear of speaking the language in public, as I have done with English.
 
-- In 2023, I attained N3-level proficiency in Japanese, as certified by the JLPT. I am currently working toward N2 certification.
+- In 2023, I took the Japanese Language Proficiency Test (JLPT) and attained N3-level proficiency. I am currently working toward N2 certification, with my ultimate goal being N1-level mastery.
 
 **Spanish**: Intermediate
 
-- TBD
+- While I do not have any official certifications in Spanish, my proficiency is comparable to my Japanese skills. I studied the language for six years during middle school and high school and have made many online friends who are native or second-language Spanish speakers. Through these interactions, I have developed a strong comprehension of spoken and written Spanish.
+
+- However, much like with Japanese, my hesitation to actively use the language has made my spoken Spanish feel somewhat unnatural. Overcoming this fear and gaining confidence in speaking fluently is, here too, my next goal.
 
 **French**: Beginner
-
-- TBD
 
 **German**: Intend to learn
 
