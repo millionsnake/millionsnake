@@ -71,15 +71,13 @@ While technology is an important part of my professional interests, my curiosity
 
 - **Language Learning**: Although I picked up English quickly, it wasn’t due to a general interest in language learning. However, as my fascination with Japanese culture grew through anime, I decided to actively pursue learning Japanese. Since then, studying the language of a culture I enjoy or have friends from has become a rewarding experience. It allows me to see the world from a different perspective and challenges me to think in new ways.
 
-- **Self-improvement**: One of my greatest aspirations is to be able to use my knowledge and experiences to inspire those who are in need of guidance. Though I have yet to achieve many of my personal goals, I strive to become someone others can one day look up to or feel grateful for—whether through the insights I share or the help I provide. Knowing that my knowledge has made a difference in someone’s life would be a fulfilling achievement.
+- **Self-improvement**: One of my greatest aspirations is to be able to use my knowledge and experiences to inspire those who are in need of guidance. Though I have yet to achieve many of my personal goals, I strive to become someone others can one day look up to or feel grateful for, whether through the insights I share or the help I provide. Knowing that my knowledge has made a difference in someone’s life would be a fulfilling achievement.
 
 - **Economic Philosophy**: My interest in economics is not restricted to financial analysis, focusing instead on the philosophical underpinnings of economic systems, human decision-making, and the interactions between individual choice and broader societal structures. From a young age, I have identified as a libertarian, valuing individual liberty and personal responsibility while also adhering to Christian ethical principles that emphasize compassion, integrity, and principled living. Additionally, I have always been passionate about world history and geography—subjects in which I consistently excelled during my studies and take pride in to this day.
 
 - **Gaming**: Gaming has always been one of my favorite pastimes, and in recent years, I have gravitated toward story-rich single-player experiences and cooperative multiplayer games that allow me to create meaningful memories with friends. While primarily a form of entertainment, some games offer deep lore, rich character backstories, and opportunities to develop teamwork, communication, and problem-solving skills. Some of my favorite games include Helldivers 2, VRChat, and Genshin Impact.
 
 - **Anime**: Japanese anime has held a special place in my heart since I was fifteen. At the time, shows like Angel Beats! provided comfort, allowing me to laugh, cry, and connect with characters in ways that helped me navigate daily life. Anime became a meaningful escape during a difficult period marked by the typical struggles of adolescence.
-
-- **Military Hardware and Strategy**: A bit on the unorthodox side, my interests also extend to military aircraft, helicopters, tanks, artillery systems, and other weaponry and equipment. This passion naturally ties into my love for real-time strategy (RTS) and grand strategy games, where I have spent countless hours playing titles like Total War, Wargame, and Stellaris.
 
 ## 📚 Language Skills
 
