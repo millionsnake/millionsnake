@@ -4,7 +4,7 @@ Last Updated: Sunday, March 9th 2025
 
 ## 🎯 Goals
 
-My primary goal is to start as a back-end developer, gradually taking on more responsibilities as I refine my skills. Eventually, I aspire to become a fully-fledged Software Engineer, leading my own projects and teams in a role similar to a tech lead. It would be especially rewarding to work with international companies and teams, as I dream of traveling abroad and potentially living in the U.S., Europe, or East Asia.
+My primary goal is to start as a back-end developer, gradually taking on more responsibilities as I refine my skills. Eventually, I aspire to become a fully-fledged Software Engineer, leading my own projects and teams in a role similar to a tech lead. It would be especially rewarding to work with international companies and teams, as I dream of traveling and potentially living abroad.
 
 ## 🖋️ Programming Philosophy
 
