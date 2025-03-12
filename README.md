@@ -1,10 +1,10 @@
-Last Updated: Monday, March 10th 2025
+Last Updated: Wednesday, March 12th 2025
 
 [日本語版](READMEJP.md) | [Versão em Potuguês Brasileiro](READMEPTBR.md)
 
 ## 🎯 Goals
 
-My primary goal is to start as a back-end developer, gradually taking on more responsibilities as I refine my skills. Eventually, I aspire to become a fully-fledged Software Engineer, leading my own projects and teams in a role similar to a tech lead. It would be especially rewarding to work with international companies and teams, as I dream of traveling and potentially living abroad.
+My goal is to start as a back-end developer who dabbles in front-end and cloud, gradually taking on more responsibilities. Eventually, I aspire to become a fully-fledged Software Engineer, leading my own projects and teams or at the very least being a reference in the field in some way. It would be especially rewarding to work with international companies and teams, as I dream of traveling and potentially living abroad.
 
 ## 🖋️ Programming Philosophy
 
@@ -53,7 +53,7 @@ I am currently in the process of building expertise with the technologies listed
 ## 🏗️ Current Projects
 
 ### Business Management Application
-A comprehensive full-stack web application designed for a small business, using TypeScript, Node.js, Express, MongoDB, and Angular. This project serves as a strategic opportunity to:
+A full-stack web application designed for a small business, using TypeScript, Node.js, Express, MongoDB, and Angular. This project serves as an opportunity to:
 - Translate business requirements into precise technical solutions
 - Enhance skills in requirements gathering and client-centric software development
 - Implement professional software design methodologies, including UML diagramming and iterative prototyping
