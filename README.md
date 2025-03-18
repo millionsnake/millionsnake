@@ -1,21 +1,10 @@
-Last Updated: Wednesday, March 12th 2025
+Last Updated: Tuesday, March 18th 2025
 
 [日本語版](READMEJP.md) | [Versão em Potuguês Brasileiro](READMEPTBR.md)
 
 ## 🎯 Goals
 
-My goal is to start as a back-end developer who dabbles in front-end and cloud, gradually taking on more responsibilities. Eventually, I aspire to become a fully-fledged Software Engineer, leading my own projects and teams or at the very least being a reference in the field in some way. It would be especially rewarding to work with international companies and teams, as I dream of traveling and potentially living abroad.
-
-## 🖋️ Programming Philosophy
-
-As a programmer, I approach software development with a balance of pragmatism and artistry. I believe in the importance of being adaptable, ensuring I always have a backup tool at my disposal for scenarios requiring flexibility or compatibility with existing codebases. At the same time, I strive to delve deep into the underlying mechanisms of the systems I work with. Understanding how a computer works at its core enables me to write code that is both efficient and meaningful.
-
-I am a perfectionist by nature, and this drives me to prioritize:
-- Security: Ensuring my code is robust against vulnerabilities.
-- Testing: Delivering reliable and high-quality software through thorough testing.
-- Documentation: Writing clear, comprehensive documentation to enhance maintainability and collaboration.
-
-For me, programming is not just about solving problems but about creating something that is both functional and elegant.
+My primary goal is to start as a back-end developer, gradually taking on more responsibilities as I refine my skills. Eventually, I aspire to become a fully-fledged Software Engineer, leading my own projects and teams in a role similar to a tech lead. It would be especially rewarding to work with international companies and teams, as I dream of traveling and potentially living abroad.
 
 ## 🛠️ Tools
 
@@ -24,46 +13,49 @@ I am currently in the process of building expertise with the technologies listed
 
 ### Core Technologies
 
-- **Programming Languages:** Rust, TypeScript
-- **Web Technologies:** HTML, CSS, Express, Angular, NestJS
-- **Backend Development:** Node.js, MongoDB, Actix, PostgreSQL
+- **Programming Languages:** JavaScript/TypeScript, Java, C/C++, Rust
+- **Front-end Development:** HTML, CSS, Angular
+- **Back-end Development:** Node.js, Express.js, NestJS, Actix
+- **Databases:** MongoDB, MySQL, PostgreSQL
 - **Desktop Development:** Tauri
-
-### Infrastructure and Deployment
-
-- **DevOps Tools:** Docker, Nginx
+- **DevOps Tools:** Docker
 - **Cloud Services:** AWS
 - **Operating Systems:** Linux
 - **Version Control:** Git
 
-![Rust](https://img.shields.io/static/v1?style=for-the-badge&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF&label=)
-![Tauri](https://img.shields.io/static/v1?style=for-the-badge&message=Tauri&color=222222&logo=Tauri&logoColor=24C8D8&label=)
-![Actix](https://img.shields.io/static/v1?style=for-the-badge&message=Actix&color=000000&logo=Actix&logoColor=FFFFFF&label=)
+![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
+![C](https://img.shields.io/badge/C-222222?style=for-the-badge&logo=C&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=FFFFFF)
+![Rust](https://img.shields.io/static/v1?style=for-the-badge&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF&label=)
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+![Angular](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=Angular&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=5FA04E&logo=Node.js&logoColor=FFFFFF&label=)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=FFFFFF)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=FFFFFF)
+![Actix](https://img.shields.io/static/v1?style=for-the-badge&message=Actix&color=000000&logo=Actix&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
-![NGINX](https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=009639&logo=NGINX&logoColor=FFFFFF&label=)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
+![Tauri](https://img.shields.io/badge/Tauri-222222?style=for-the-badge&logo=Tauri&logoColor=24C8D8)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
-![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![Amazon Web Services](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Web+Services&color=232F3E&logo=Amazon+Web+Services&logoColor=FFFFFF&label=)
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 
 ## 🏗️ Current Projects
 
 ### Business Management Application
-A full-stack web application designed for a small business, using TypeScript, Node.js, Express, MongoDB, and Angular. This project serves as an opportunity to:
+A comprehensive full-stack web application designed for a small business, using TypeScript, Node.js, Express, MongoDB, and Angular. This project serves as a strategic opportunity to:
 - Translate business requirements into precise technical solutions
 - Enhance skills in requirements gathering and client-centric software development
 - Implement professional software design methodologies, including UML diagramming and iterative prototyping
 - Gain hands-on experience in creating scalable, responsive business management tools
 
 ### Discord Bot Development
-A TypeScript-based Discord bot with its own dashboard, initially conceived for a private server, but with potential for future public release. Through this project, I aim to:
-- Develop practical experience with third-party API integration
-- Explore advanced bot functionality and user interaction design
-- Build a tool that can potentially serve a broader user base
+A TypeScript-based Discord bot with its own dashboard, initially conceived for a private server, but with potential for future public release. Developed using TypeScript, DiscordJS, and Sapphire. Through this project, I aim to:
+- Build a tool that can potentially pave the way for any future smaller freelance projects I start
 
 ## 🧠 Interests and Pursuits
 
