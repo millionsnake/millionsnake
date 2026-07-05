@@ -1,1 +1,1 @@
-Just someone doing their own thing.
+I'll be working on this readme soon, trust
